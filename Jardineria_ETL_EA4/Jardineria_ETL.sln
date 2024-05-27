@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Jardineria_ETL", "Jardineria_ETL.dtproj", "{ADC1EE1B-E473-44E0-93B4-6B2D3520953F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC1EE1B-E473-44E0-93B4-6B2D3520953F}.Development|Default.ActiveCfg = Development
+		{ADC1EE1B-E473-44E0-93B4-6B2D3520953F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FCDA0C-127E-4FD0-8EDB-D4471032DEB3}
+	EndGlobalSection
+EndGlobal
